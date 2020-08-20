@@ -24,7 +24,7 @@ def click():
       break
   else:
     print("Not valid")
-    break
+  break
   
 
 name = tk.StringVar()  
